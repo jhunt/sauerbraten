@@ -1,0 +1,5 @@
+*.exe
+*.dll
+*.lib
+/bin_unix/*_client
+/bin_unix/*_server
